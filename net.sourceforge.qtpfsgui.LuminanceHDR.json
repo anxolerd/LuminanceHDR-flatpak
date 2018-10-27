@@ -27,7 +27,7 @@
                 {
                     "type": "git",
                     "url": "https://github.com/Exiv2/exiv2/",
-                    "commit" : "b3d077dcaefb6747fff8204490f33eba5a144edb"
+                    "commit" : "e7ffd83af29187190da7f98dcbca8a4d70e19582"
                 }
             ]
         },
