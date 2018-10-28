@@ -11,7 +11,7 @@ Building the project and adding it to the local repo
 
 .. code::
 
-   flatpak-builder -vvvvv --force-clean --repo=local build-dir net.sourceforge.qtpfsgui.LuminanceHDR.json
+   flatpak-builder -vvvvv --force-clean --repo=local build-dir net.sourceforge.qtpfsgui.LuminanceHDR.yaml
 
 
 Setting up local repo
